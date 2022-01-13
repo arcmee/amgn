@@ -1,0 +1,8 @@
+{
+  "name": "amgn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arcmee/amgn.git",
+  "author": "kihyun <kihyun3208@gmail.com>",
+  "license": "MIT"
+}
